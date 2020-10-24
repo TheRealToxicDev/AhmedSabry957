@@ -5,7 +5,7 @@ GITHUB:
 
 MY BOT: 
 
-[![Infinity Bot List Widget](https://infinitybots.xyz/bots/749576450121793570/widget)](https://infinitybots.xyz/bots/749576450121793570)
+[![Infinity Bot List Widget](https://infinitybotlist.com/bots/749576450121793570/widget)](https://infinitybots.xyz/bots/749576450121793570)
 
 
-MY LIST: [Infinity Bot List](https://infinitybots.xyz/)
+MY LIST: [Infinity Bot List](https://infinitybotlist.com/)
